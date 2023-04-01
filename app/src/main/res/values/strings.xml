@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMessanger</string>
+    <string name="send">Sened Message</string>
+    <string name="hint">Enter a message</string>
+</resources>
